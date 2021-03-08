@@ -1,0 +1,31 @@
+body{
+	background-image: 
+	url("Background/Writing1.jpg"),
+	url("Background/Writing2.jpg");
+	
+	background-repeat: no-repeat, no-repeat;
+    background-size: 500px, 700px;
+    background-position: 0px 0px, 500px 0px;
+}
+
+h1{
+	font-family: 'Furgatorio Sans', sans-serif;
+	
+}
+h2{
+	font-family: 'Belleza', sans-serif;
+	color: blue;
+}
+h3{
+	font-family: 'Belleza', sans-serif;
+	color: blue;
+}	
+h4{
+	font-family: 'Belleza', sans-serif;
+}
+h5{
+	font-family: 'Belleza', sans-serif;
+}
+h6{
+	font-family: 'Belleza', sans-serif;
+}
