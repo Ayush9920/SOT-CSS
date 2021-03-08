@@ -1,0 +1,15 @@
+body{
+	background-image: url("Background/BlackBackground.jpg");
+	background-repeat: no-repeat;
+	background-size: 1350px;
+}
+h1{
+	font-family: 'Furgatorio Sans', sans-serif
+}
+h2{
+	font-family: 'Belleza', sans-serif; 130px;
+	
+}
+p{
+	font-family: 'Belleza', sans-serif;
+}
