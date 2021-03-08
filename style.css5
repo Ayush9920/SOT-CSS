@@ -1,0 +1,9 @@
+body{
+	background-image: url("white.jpg");
+	background-repeat: no-repeat;
+	background-size: 1350px;
+}
+.picRight{
+	float:centre;
+	margin:centre:20px;
+}
