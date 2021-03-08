@@ -1,0 +1,31 @@
+body{
+	background-image: url("Background/Blank.jpg");
+	background-size: cover;
+}
+
+
+h1{
+	font-family: 'Furgatorio Sans', sans-serif;
+	
+
+}
+
+}
+h1{
+	font-family: 'Belleza', sans-serif;
+	
+}
+
+}
+h3{
+	font-family: 'Belleza', sans-serif;
+	
+}
+.picRight{
+	float:right;
+	margin:left:20px;
+}
+.picRight2{
+	float:right;
+	margin:left:20px;
+}
